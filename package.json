@@ -1,5 +1,5 @@
 {
-  "name": "@bitgo/utxo-lib",
+  "name": "@corgi-dev/utxo-lib",
   "version": "1.9.1",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BitGo/bitgo-utxo-lib.git"
+    "url": "https://github.com/Corgi-Dev/bitgo-utxo-lib.git"
   },
   "files": [
     "src"
